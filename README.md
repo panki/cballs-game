@@ -24,8 +24,8 @@ Enjoy!
 
 All sources and compiled .exe located at game folder.
 
-- CBALL.PAS - Main source file
-- CBALL.INC - Includes
+- [CBALL.PAS](https://github.com/panki/cballs-game/blob/master/game/CBALL.PAS) - Main source file
+- [CBALL.INC](https://github.com/panki/cballs-game/blob/master/game/CBALL.INC) - Includes
 
 ## Screenshots
 
