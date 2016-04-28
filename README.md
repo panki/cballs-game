@@ -17,19 +17,29 @@ Enjoy!
 
 ## Requirements:
 
-MS-DOS 6.x
-Borland Turbo Pascal 7.0
+- MS-DOS 6.x
+- Borland Turbo Pascal 7.0
 
 ## Sources
 
 All sources and compiled .exe located at game folder.
 
-CBALL.PAS - Main source file
-CBALL.INC - Includes
+- CBALL.PAS - Main source file
+- CBALL.INC - Includes
 
 ## Screenshots
 
-See ./screens folder 
+### Start screen
+
+![Start screen](/screens/cballs-start-screen.png?raw=true)
+
+### Pause screen
+
+![Pause screen](/screens/cballs-pause-screen.png?raw=true)
+
+### Highscore screen
+
+![Highscore screen](/screens/cballs-highscore-screen.png?raw=true)
 
 ## How to run
 
